@@ -1,9 +1,10 @@
 15671- Projeto Integrador - Cibersegurança
+
 🧑‍🎓 Integrantes
-Davi Fiorini
-Diego Mauad Peixoto
-Gabriel Figueiredo Spaziante
+•	Davi Fiorini
+•	Davi Mauad Peixoto
+•	Gabriel Figueiredo Spaziante
 📝 Descrição
-Implementação da Cifra de Hill usando código C.
+Este projeto consiste na implementação de um Cifra De Hill usando linguagem C.
 📋 Licença
 Este projeto utiliza a licença MIT.
