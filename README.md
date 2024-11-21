@@ -11,7 +11,7 @@ Projeto Integrador - Cibersegurança
 
 📝 Descrição
 
-Este projeto consiste na implementação de um Cifra De Hill usando linguagem C.
+Este projeto consiste na implementação de uma Cifra De Hill usando linguagem C.
 
 📋 Licença
 
